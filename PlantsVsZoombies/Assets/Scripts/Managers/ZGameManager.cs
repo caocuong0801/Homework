@@ -33,15 +33,6 @@ public partial class ZGameManager : SingletonMono<ZGameManager>
     }
 
 
-    private void OnDestroy()
-    {
-        if (GUIManager.Instance != null)
-        {
-            GUIManager.Instance.OnAddedPlant -= handleAddPlant;
-        }
-    }
-
-
     private void FixedUpdate()
     {
         gameSystem?.Tick();
