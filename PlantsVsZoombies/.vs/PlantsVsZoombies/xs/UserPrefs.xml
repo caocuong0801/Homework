@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{17387FA3-F5E3-BEA9-8E36-5ADE2840BD80}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlantsVsZoombies" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Handlers" expanded="True">
+                  <Node name="Plants" expanded="True" />
+                </Node>
+                <Node name="Managers" expanded="True" />
+                <Node name="Models" expanded="True" />
+                <Node name="Systems" expanded="True" />
+                <Node name="Utilities" expanded="True">
+                  <Node name="Config" expanded="True" />
+                </Node>
+                <Node name="Zenject" expanded="True">
+                  <Node name="Installers" expanded="True">
+                    <Node name="BattleInstaller.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="14bc00b8-4954-4277-b157-920dfc64dd38" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
